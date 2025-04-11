@@ -1,0 +1,5 @@
+#N canvas 867 302 946 666 12;
+#X obj 269 156 vradio 19 1 0 16 qweqweqw qweqweqweqwe empty 0 -10 0 12 #f9fffc #000000 #000000 0;
+#X obj 293 156 vradio 19 1 0 16 empty empty empty 0 -10 0 12 #f9fffc #000000 #000000 0;
+#X obj 318 156 vradio 19 1 0 16 qwe qweqweqwe empty 0 -10 0 12 #f9fffc #000000 #000000 0;
+#X obj 342 156 vradio 19 1 0 16 empty empty empty 0 -10 0 12 #f9fffc #000000 #000000 0;
